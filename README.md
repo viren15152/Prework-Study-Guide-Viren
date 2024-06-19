@@ -13,7 +13,7 @@ N/A
 
 ## Image
 
-![Screenshot of study guide](<Screenshot 2024-06-19 at 16.59.51.png>)
+![Screenshot of website](<assets/Screenshot 2024-06-19 at 16.59.51.png>)
 
 ## Credits
 N/A
